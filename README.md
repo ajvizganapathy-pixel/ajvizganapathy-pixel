@@ -1,16 +1,34 @@
-## Hi there 👋
+👋 Hi, I'm ANJAN
 
-<!--
-**ajvizganapathy-pixel/ajvizganapathy-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Builder focused on Software, AI, and Hardware systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ What I Do
+
+- 💻 Web Development (Basics)
+- 🧠 AI Tools & Local AI Systems
+- 🔌 Embedded Systems (ESP8266)
+- 🛠️ PCB Design (KiCad)
+- 🎨 Blender 3D
+- 📈 Trading & Crypto Systems
+
+---
+
+🎯 Current Focus
+
+- OpenJarvis (Personal AI)
+- Smart hardware + AI integration
+- Real-world project building
+
+---
+
+⚙️ Tools
+
+KiCad • Arduino • ESP8266 • Docker • WSL • Ollama
+
+---
+
+📌 Goal
+
+To build powerful real-world systems combining Software + AI + Hardware
